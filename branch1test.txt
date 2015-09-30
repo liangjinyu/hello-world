@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 web modify
-=======
-branchModify
->>>>>>> branch1
+
